@@ -1,0 +1,455 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "code12",
+            "request": "launch",
+            "mainClass": "TcsDigital.code12",
+            "projectName": "JAVA_OOPS_588a7426"
+        },
+        {
+            "type": "java",
+            "name": "code11",
+            "request": "launch",
+            "mainClass": "TcsDigital.code11",
+            "projectName": "JAVA_OOPS_588a7426"
+        },
+        {
+            "type": "java",
+            "name": "ReverseandStartswith",
+            "request": "launch",
+            "mainClass": "Problems.ReverseandStartswith",
+            "projectName": "JAVA_OOPS_588a7426"
+        },
+        {
+            "type": "java",
+            "name": "GfG",
+            "request": "launch",
+            "mainClass": "GfG",
+            "projectName": "JAVA_OOPS_588a7426"
+        },
+        {
+            "type": "java",
+            "name": "ClimbingStairsMinCost",
+            "request": "launch",
+            "mainClass": "Recursion_DP_Backtracking.Dynamic_Programming.ClimbingStairsMinCost",
+            "projectName": "JAVA_OOPS_588a7426"
+        },
+        {
+            "type": "java",
+            "name": "Tribonacci_sequence",
+            "request": "launch",
+            "mainClass": "Recursion_DP_Backtracking.Dynamic_Programming.Tribonacci_sequence",
+            "projectName": "JAVA_OOPS_588a7426"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Polymorphism.Main",
+            "projectName": "JAVA_OOPS_588a7426"
+        },
+        {
+            "type": "java",
+            "name": "Climbingstairswith_minimum_moves",
+            "request": "launch",
+            "mainClass": "Recursion_DP_Backtracking.Dynamic_Programming.Climbingstairswith_minimum_moves",
+            "projectName": "JAVA_OOPS_588a7426"
+        },
+        {
+            "type": "java",
+            "name": "ClimbingstairsvariablejumpsbyTabulation",
+            "request": "launch",
+            "mainClass": "Recursion_DP_Backtracking.Dynamic_Programming.ClimbingstairsvariablejumpsbyTabulation",
+            "projectName": "JAVA_OOPS_588a7426"
+        },
+        {
+            "type": "java",
+            "name": "four",
+            "request": "launch",
+            "mainClass": "ControlFlowstructure.four",
+            "projectName": "JAVA_OOPS_588a7426"
+        },
+        {
+            "type": "java",
+            "name": "three",
+            "request": "launch",
+            "mainClass": "ControlFlowstructure.three",
+            "projectName": "JAVA_OOPS_588a7426"
+        },
+        {
+            "type": "java",
+            "name": "two",
+            "request": "launch",
+            "mainClass": "ControlFlowstructure.two",
+            "projectName": "JAVA_OOPS_588a7426"
+        },
+        {
+            "type": "java",
+            "name": "one",
+            "request": "launch",
+            "mainClass": "ControlFlowstructure.one",
+            "projectName": "JAVA_OOPS_588a7426"
+        },
+        {
+            "type": "java",
+            "name": "Climbingstairswithvariablejumps",
+            "request": "launch",
+            "mainClass": "Recursion_DP_Backtracking.Dynamic_Programming.Climbingstairswithvariablejumps",
+            "projectName": "JAVA_OOPS_588a7426"
+        },
+        {
+            "type": "java",
+            "name": "Rec1",
+            "request": "launch",
+            "mainClass": "R_E_C_U_R_S_I_O_N.Rec1",
+            "projectName": "JAVA_OOPS_588a7426"
+        },
+        {
+            "type": "java",
+            "name": "permutations",
+            "request": "launch",
+            "mainClass": "R_E_C_U_R_S_I_O_N.permutations",
+            "projectName": "JAVA_OOPS_588a7426"
+        },
+        {
+            "type": "java",
+            "name": "code10",
+            "request": "launch",
+            "mainClass": "TcsDigital.code10",
+            "projectName": "JAVA_OOPS_588a7426"
+        },
+        {
+            "type": "java",
+            "name": "code9",
+            "request": "launch",
+            "mainClass": "TcsDigital.code9",
+            "projectName": "JAVA_OOPS_588a7426"
+        },
+        {
+            "type": "java",
+            "name": "code8",
+            "request": "launch",
+            "mainClass": "TcsDigital.code8",
+            "projectName": "JAVA_OOPS_588a7426"
+        },
+        {
+            "type": "java",
+            "name": "code7",
+            "request": "launch",
+            "mainClass": "TcsDigital.code7",
+            "projectName": "JAVA_OOPS_588a7426"
+        },
+        {
+            "type": "java",
+            "name": "Crucialstuff",
+            "request": "launch",
+            "mainClass": "STRINGS.Crucialstuff",
+            "projectName": "JAVA_OOPS_588a7426"
+        },
+        {
+            "type": "java",
+            "name": "code6",
+            "request": "launch",
+            "mainClass": "TcsDigital.code6",
+            "projectName": "JAVA_OOPS_588a7426"
+        },
+        {
+            "type": "java",
+            "name": "code5",
+            "request": "launch",
+            "mainClass": "TcsDigital.code5",
+            "projectName": "JAVA_OOPS_588a7426"
+        },
+        {
+            "type": "java",
+            "name": "code4",
+            "request": "launch",
+            "mainClass": "TcsDigital.code4",
+            "projectName": "JAVA_OOPS_588a7426"
+        },
+        {
+            "type": "java",
+            "name": "code3",
+            "request": "launch",
+            "mainClass": "TcsDigital.code3",
+            "projectName": "JAVA_OOPS_588a7426"
+        },
+        {
+            "type": "java",
+            "name": "code2",
+            "request": "launch",
+            "mainClass": "TcsDigital.code2",
+            "projectName": "JAVA_OOPS_588a7426"
+        },
+        {
+            "type": "java",
+            "name": "code1",
+            "request": "launch",
+            "mainClass": "TcsDigital.code1",
+            "projectName": "JAVA_OOPS_588a7426"
+        },
+        {
+            "type": "java",
+            "name": "SteppingDownStairs",
+            "request": "launch",
+            "mainClass": "Recursion_DP_Backtracking.Dynamic_Programming.SteppingDownStairs",
+            "projectName": "JAVA_OOPS_588a7426"
+        },
+        {
+            "type": "java",
+            "name": "Fibomemo",
+            "request": "launch",
+            "mainClass": "Recursion_DP_Backtracking.Dynamic_Programming.Fibomemo",
+            "projectName": "JAVA_OOPS_588a7426"
+        },
+        {
+            "type": "java",
+            "name": "Fibonacci",
+            "request": "launch",
+            "mainClass": "Recursion_DP_Backtracking.Fibonacci",
+            "projectName": "JAVA_OOPS_588a7426"
+        },
+        {
+            "type": "java",
+            "name": "GetKeyPadCount",
+            "request": "launch",
+            "mainClass": "Recursion_DP_Backtracking.GetKeyPadCount",
+            "projectName": "JAVA_OOPS_588a7426"
+        },
+        {
+            "type": "java",
+            "name": "GetKeyPadCodes",
+            "request": "launch",
+            "mainClass": "Recursion_DP_Backtracking.GetKeyPadCodes",
+            "projectName": "JAVA_OOPS_588a7426"
+        },
+        {
+            "type": "java",
+            "name": "prac",
+            "request": "launch",
+            "mainClass": "prac",
+            "projectName": "JAVA_OOPS_588a7426"
+        },
+        {
+            "type": "java",
+            "name": "SubsequenceOfString",
+            "request": "launch",
+            "mainClass": "Recursion_DP_Backtracking.SubsequenceOfString",
+            "projectName": "JAVA_OOPS_588a7426"
+        },
+        {
+            "type": "java",
+            "name": "TowerOfHanoi",
+            "request": "launch",
+            "mainClass": "Recursion_DP_Backtracking.TowerOfHanoi",
+            "projectName": "JAVA_OOPS_588a7426"
+        },
+        {
+            "type": "java",
+            "name": "ZigZag",
+            "request": "launch",
+            "mainClass": "Recursion_DP_Backtracking.ZigZagRecursionPattern.ZigZag",
+            "projectName": "JAVA_OOPS_588a7426"
+        },
+        {
+            "type": "java",
+            "name": "pow",
+            "request": "launch",
+            "mainClass": "Recursion_DP_Backtracking.pow",
+            "projectName": "JAVA_OOPS_588a7426"
+        },
+        {
+            "type": "java",
+            "name": "example",
+            "request": "launch",
+            "mainClass": "Recursion_DP_Backtracking.example",
+            "projectName": "JAVA_OOPS_588a7426"
+        },
+        {
+            "type": "java",
+            "name": "Leet1006",
+            "request": "launch",
+            "mainClass": "Leetcodeproblems.Leet1006",
+            "projectName": "JAVA_OOPS_588a7426"
+        },
+        {
+            "type": "java",
+            "name": "Factorial",
+            "request": "launch",
+            "mainClass": "Recursion_DP_Backtracking.Factorial",
+            "projectName": "JAVA_OOPS_588a7426"
+        },
+        {
+            "type": "java",
+            "name": "Recur5",
+            "request": "launch",
+            "mainClass": "Recursion_DP_Backtracking.Recur5",
+            "projectName": "JAVA_OOPS_588a7426"
+        },
+        {
+            "type": "java",
+            "name": "Recur3",
+            "request": "launch",
+            "mainClass": "Recursion_DP_Backtracking.Recur3",
+            "projectName": "JAVA_OOPS_588a7426"
+        },
+        {
+            "type": "java",
+            "name": "Recur1",
+            "request": "launch",
+            "mainClass": "Recursion_DP_Backtracking.Recur1",
+            "projectName": "JAVA_OOPS_588a7426"
+        },
+        {
+            "type": "java",
+            "name": "Problem1",
+            "request": "launch",
+            "mainClass": "Problems.Problem1",
+            "projectName": "JAVA_OOPS_588a7426"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "cod1",
+            "request": "launch",
+            "mainClass": "Generics.cod1",
+            "projectName": "JAVA_OOPS_588a7426"
+        },
+        {
+            "type": "java",
+            "name": "ParkingSystem",
+            "request": "launch",
+            "mainClass": "Leetcodeproblems.ParkingSystem",
+            "projectName": "JAVA_OOPS_588a7426"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "LinkedList123.DoublyLinkedList.Main",
+            "projectName": "JAVA_OOPS_588a7426"
+        },
+        {
+            "type": "java",
+            "name": "Main(1)",
+            "request": "launch",
+            "mainClass": "LinkedList123.SinglyLinkedList.Main",
+            "projectName": "JAVA_OOPS_588a7426"
+        },
+        {
+            "type": "java",
+            "name": "Solution",
+            "request": "launch",
+            "mainClass": "OOP2.Solution",
+            "projectName": "JAVA_OOPS_588a7426"
+        },
+        {
+            "type": "java",
+            "name": "Solution(1)",
+            "request": "launch",
+            "mainClass": "OOP3.Solution",
+            "projectName": "JAVA_OOPS_588a7426"
+        },
+        {
+            "type": "java",
+            "name": "main",
+            "request": "launch",
+            "mainClass": "OOP4.main",
+            "projectName": "JAVA_OOPS_588a7426"
+        },
+        {
+            "type": "java",
+            "name": "Solution(2)",
+            "request": "launch",
+            "mainClass": "OOP5.Solution",
+            "projectName": "JAVA_OOPS_588a7426"
+        },
+        {
+            "type": "java",
+            "name": "Solution(3)",
+            "request": "launch",
+            "mainClass": "OOP6.Solution",
+            "projectName": "JAVA_OOPS_588a7426"
+        },
+        {
+            "type": "java",
+            "name": "normal",
+            "request": "launch",
+            "mainClass": "OOP6.normal",
+            "projectName": "JAVA_OOPS_588a7426"
+        },
+        {
+            "type": "java",
+            "name": "main1",
+            "request": "launch",
+            "mainClass": "OOPeg1.main1",
+            "projectName": "JAVA_OOPS_588a7426"
+        },
+        {
+            "type": "java",
+            "name": "Prob",
+            "request": "launch",
+            "mainClass": "Problems.Prob",
+            "projectName": "JAVA_OOPS_588a7426"
+        },
+        {
+            "type": "java",
+            "name": "countvowelword",
+            "request": "launch",
+            "mainClass": "Problems.countvowelword",
+            "projectName": "JAVA_OOPS_588a7426"
+        },
+        {
+            "type": "java",
+            "name": "prog1",
+            "request": "launch",
+            "mainClass": "References.prog1",
+            "projectName": "JAVA_OOPS_588a7426"
+        },
+        {
+            "type": "java",
+            "name": "prog2",
+            "request": "launch",
+            "mainClass": "References.prog2",
+            "projectName": "JAVA_OOPS_588a7426"
+        },
+        {
+            "type": "java",
+            "name": "newa",
+            "request": "launch",
+            "mainClass": "Relationship.newa",
+            "projectName": "JAVA_OOPS_588a7426"
+        },
+        {
+            "type": "java",
+            "name": "newb",
+            "request": "launch",
+            "mainClass": "Relationship.newb",
+            "projectName": "JAVA_OOPS_588a7426"
+        },
+        {
+            "type": "java",
+            "name": "Maintree",
+            "request": "launch",
+            "mainClass": "TREES.Maintree",
+            "projectName": "JAVA_OOPS_588a7426"
+        },
+        {
+            "type": "java",
+            "name": "main2",
+            "request": "launch",
+            "mainClass": "staticvar.main2",
+            "projectName": "JAVA_OOPS_588a7426"
+        }
+    ]
+}
